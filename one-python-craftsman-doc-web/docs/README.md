@@ -1,4 +1,7 @@
 
+## 免责声明
+这个网站是《Python 工匠》一书的在线文档，由我（[@pengzhangzhi](https://github.com/pengzhangzhi)）维护，但主要内容来源于[@piglei](https://github.com/piglei/one-python-craftsman)。任何疑问请咨询作者。希望这个网站能给大家带来更好的阅读体验。
+
 《Python 工匠》图书首页上线啦！共有 3 章在线内容，欢迎阅读。
 
 - [图书首页](https://www.zlovezl.cn/book/)
