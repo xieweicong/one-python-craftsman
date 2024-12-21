@@ -466,7 +466,7 @@ class HNTopPostsSpider:
 
 默认情况下，`HNTopPostsSpider.fetch` 会保留所有的结果。假如我们想要定义自己的过滤算法，只要新建自己的 `PostFilter` 类即可，下面是两个分别过滤 GitHub 与 BloomBerg 的 `PostFilter` 类：
 
-```
+```python
 class GithubPostFilter(PostFilter):
     def validate(self, post: Post) -> bool:
         return 'github' in post.link.lower()
